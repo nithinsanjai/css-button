@@ -1,0 +1,123 @@
+.primary{
+	background-color:blue;
+	border:none;
+	padding:5px;
+	color:white;
+	border-radius:3px;
+	text-decoration:none;
+}
+.primary:hover{
+	background-color:red;
+	color:white;
+	transition:all 0.9s ease;
+}
+
+.secondary{
+	background-color:grey;
+	border:none;
+	padding:5px;
+	color:white;
+	border-radius:3px;
+	text-decoration:none;
+}
+.secondary:hover{
+	background-color:red;
+	color:white;
+	transition:all 0.9s ease;
+}
+
+
+.success{
+	background-color:green;
+	border:none;
+	padding:5px;
+	color:white;
+	border-radius:3px;
+	text-decoration:none;
+}
+.success:hover{
+	background-color:red;
+	color:white;
+	transition:all 0.9s ease;
+}
+
+.danger{
+	background-color:red;
+	border:none;
+	padding:5px;
+	color:white;
+	border-radius:3px;
+	text-decoration:none;
+}
+.danger:hover{
+	background-color:blue;
+	color:white;
+	transition:all 0.9s ease;
+}
+
+.warning{
+	background-color:#EFCC00;
+	border:none;
+	padding:5px;
+	color:black;
+	border-radius:3px;
+	text-decoration:none;
+}
+.warning:hover{
+	background-color:red;
+	color:white;
+	transition:all 0.9s ease;
+}
+
+.info{
+	background-color:skyblue;
+	border:none;
+	padding:5px;
+	color:white;
+	border-radius:3px;
+	text-decoration:none;
+}
+.info:hover{
+	background-color:red;
+	color:white;
+	transition:all 0.9s ease;
+}
+
+.light{
+	background-color:light grey;
+	border:none;
+	padding:5px;
+	color:black;
+	border-radius:3px;
+	text-decoration:none;
+}
+
+.light:hover{
+	background-color:red;
+	color:white;
+	transition:all 0.9s ease;
+}
+
+.dark{
+	background-color:black;
+	border:none;
+	padding:5px;
+	color:white;
+	border-radius:3px;
+	text-decoration:none;
+}
+
+.dark:hover{
+	background-color:red;
+	color:white;
+	transition:all 0.9s ease;
+}
+
+.link{
+	text-decoration:underline;
+	color:blue;
+	border:none;
+	background-color;transparent;
+	cursor:pointer;
+}
+	
